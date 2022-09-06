@@ -1,0 +1,2 @@
+Prefix plugins/LEfSeUnClassified/example/
+Plugin LEfSeUnClassified inputfile lefse_final.txt outputfile lefse_mod.txt
